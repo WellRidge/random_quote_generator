@@ -50,3 +50,7 @@ To get an "exceeds" rating, you can expand on the project in the following ways:
 * [x] __Randomly change the background color of the page, when the quote changes__
 * [x] __Don't display a random quote more than once until ALL quotes from the array have been displayed.__
 * [x] __Refresh the quote after a set amount of time. For example, every 30 seconds, make a new quote appear. You can use the [setInterval()](https://developer.mozilla.org/en-US/docs/Web/API/WindowTimers/setInterval) or [setTimeout()](https://developer.mozilla.org/en-US/docs/Web/API/WindowTimers/setTimeout) method to do this.__
+
+## View Project
+
+[Live Demo](https://wellridge.github.io/random_quote_generator/) of this project.
